@@ -1,4 +1,4 @@
-//##############################################################
+##############################################################
 
 INSTRUCCIONES DE USO:
 
@@ -37,4 +37,4 @@ Función para comprobar si la consulta fue correcta o hubo algún error. TRUE si
 ObtenerError(CString sErr)
 Función para obtener un string con la descripcion del error en base a un codigo de error
 
-//##############################################################
+##############################################################
