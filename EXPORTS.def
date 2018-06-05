@@ -1,0 +1,15 @@
+; EXPORTS.def : Declares the module parameters for the DLL.
+
+LIBRARY      "QTAliasCBU"
+DESCRIPTION  'Windows Dynamic Link Library'
+
+EXPORTS
+   	DesencriptarDatos
+	DesencriptarDatos
+	ObtenerUserPass
+	Recupero_UserID_Psw
+	RevisarRespuesta
+	CompletaEspacios
+	MinToMay
+	Consultar	
+	ObtenerError
