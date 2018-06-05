@@ -1,5 +1,3 @@
-//Genero la clase AliasCBU //Obtengo el Alias con el CBU del cliente //Obtengo el CBU con el Alias del cliente
-
 //##############################################################
 
 INSTRUCCIONES DE USO:
@@ -8,7 +6,7 @@ INSTRUCCIONES DE USO:
 
 2- En el .h de la clase donde se utilice la DLL incluir el .h QTAliasCBU.H
 
---------------------EJEMPLO-----------------------
+FUNCIONES DISPONIBLES:
 
 Llamar las funciones disponibles dentro de la librería
 
