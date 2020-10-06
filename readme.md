@@ -12,22 +12,6 @@ Función principal que devuelve un CString con el resultado, si hay un error dev
 
 Parametros necesarios: sAlias, sCBU y sAmbiente. Dejar "" el dato que se quiera obtener.
 
-**Si se pasa un Alias:**
-
-sAlias = "#####";
-
-sCBU = "";
-
-sAmbiente = "DESA";
-
-Si se pasa un CBU:
-
-sAlias = "";
-
-sCBU = "######";
-
-sAmbiente = "DESA";
-
 **RevisarRespuesta(CString sRespuesta)**
 
 Función para comprobar si la consulta fue correcta o hubo algún error. TRUE si es correcta o FALSE si hubo un error.
